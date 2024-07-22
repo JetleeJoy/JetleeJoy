@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JetleeJoy
 - 👀 I’m interested in programming languages.
-- 🌱 I’m currently learning various programming concepts.
+- 🌱 An IT professional, but still learning programming.
 - 📫 reach me via jetleejoy303@gmail.com
 
 <!---
